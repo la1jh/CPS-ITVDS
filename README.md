@@ -1,3 +1,4 @@
+![framework](example.png)
 # CPS-ITVDS
 
 English | [中文](./README.zh-CN.md)
